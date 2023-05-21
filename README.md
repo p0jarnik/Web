@@ -5,4 +5,6 @@
 
 Год рождения: **6 декабря 1996г.**
 
-Знак зодиака: **Стрелец**    ![](https://avatars.mds.yandex.net/i?id=1c5e5717580466b8659aea861d32f9a18e04fb44-8194355-images-thumbs&n=13)
+Знак зодиака: **Стрелец**    
+
+![](https://avatars.mds.yandex.net/i?id=1c5e5717580466b8659aea861d32f9a18e04fb44-8194355-images-thumbs&n=13)
